@@ -1,6 +1,6 @@
 # MLBSuccessPredictor
 
-This project uses machine learning to predict a baseball player's overall career success (WAR) based on their rookie season statistics. It was done along with [Hailey Terry](https://www.linkedin.com/in/hailey-terry/)
+This project uses machine learning to predict a baseball player's overall career success (WAR) based on their rookie season statistics. It was done with the help of [Hailey Terry](https://www.linkedin.com/in/hailey-terry/).
 
 ## Overview
 
